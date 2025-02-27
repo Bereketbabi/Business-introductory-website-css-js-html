@@ -15,6 +15,4 @@ JavaScript: For interactive features and dynamic content.
 
 Vercel: For deploying and hosting the live website.
 
-Live Demo
-
-Check out the live demo: (https://musei-amanueal.vercel.app/)
+🔗 [Live Demo](https://musei-amanueal.vercel.app/)
